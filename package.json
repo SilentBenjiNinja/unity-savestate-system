@@ -1,8 +1,8 @@
 {
-  "name": "com.bnj.package-template",
+  "name": "com.bnj.savestate-system",
   "version": "1.0.0",
-  "displayName": "BNJ - Template",
-  "description": "This is the lovely description to this very useful package.",
+  "displayName": "BNJ - Savestate System",
+  "description": "* Saves and loads the game to file\n* Includes backup rotation, progress feedback, file validation and fully customizable savestate migration",
   "unity": "2020.3",
   "author": {
     "name": "SilentBenjiNinja",
